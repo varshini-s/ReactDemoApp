@@ -9,5 +9,13 @@ img
 {
   display: block;
   margin: 0 auto;
+  width: 20%;
+}
+
+input
+{
+  margin: auto;
+  display: block;
   width: 25%;
+
 }
